@@ -1,10 +1,10 @@
 # Site
-title:              may day-convoluted weekend
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+title:              May day-convoluted weekend
+bio:                'Exploring common perspectives of category theory within functional programming frameworks and applications.'
+description:        "May 26-27, 2018"
+reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/Groetzsch-graph.svg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -40,7 +40,7 @@ sass:
 #email:
 twitter:            kejace
 #facebook:           username
-github-url:         0mphalos
+github-url:         0mphalos/mayday-convoluted-weekend
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
