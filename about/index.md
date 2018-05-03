@@ -32,6 +32,7 @@ The schedule for the weekend is as follows
 | 11am-12pm   | TBD (Nathan Fubion)                  | functional web3 (Kristoffer Josefsson)  |
 |----
 | 12pm-1pm    | Lunch         | Lunch   |
+|----
 | 1pm-2pm     | Open session  | Open session  |
 | 2pm-2.30pm  | Lightning talk: TBD  | Lightning talk: Fae (Ryan Reich) |
 | 2.30pm-4pm  | Open session  | Open session |
