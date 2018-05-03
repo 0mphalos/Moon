@@ -28,7 +28,7 @@ The schedule for the weekend is as follows
 
 | Time | Saturday | Sunday |
 |:--------|:-------:|:-------:|
-| 10am-11am   | Extensible co-effects (Phil Freeman) | functional web3 (Martin Allen) |
+| 10am-11am   | Extensible co-effects (Phil Freeman) | [functional web3](https://coday.today/web3/) (Martin Allen) |
 | 11am-12pm   | TBD (Nathan Fubion)                  | functional web3 (Kristoffer Josefsson)  |
 |----
 | 12pm-1pm    | Lunch         | Lunch   |
