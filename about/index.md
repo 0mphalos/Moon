@@ -11,8 +11,9 @@ The purpose of this gathering is to explore common perspectives of category theo
 
 # Where and when
 
-[NAVEL](https://goo.gl/maps/EmtKVixQHpN2) @ 1611 S Hope st,
-Los Angeles, 90015 CA
+[NAVEL](https://goo.gl/maps/EmtKVixQHpN2)<br>
+1611 S Hope st<br>
+Los Angeles, 90015 CA<br>
 26-27 May 2018
 
 Parking will be available. Lunch will be offered to participants for free. Registration required. Seats are limited. Please only RVSP if you are certain you can make it. 
