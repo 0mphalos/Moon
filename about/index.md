@@ -1,8 +1,8 @@
 ---
-layout: page
-title: About the Theme
-tags: [about]
-date: 2016-03-21
+layout: about
+title: May day-convoluted weekend
+tags: [program]
+date: 2018-05-01
 comments: false
 ---
 # Introduction
@@ -28,11 +28,11 @@ The schedule for the weekend is as follows
 | Time | Saturday | Sunday |
 |:--------|:-------:|:-------:|
 | 10am-11am   | Extensible co-effects (Phil Freeman) | functional web3 (Martin Allen) |
-| 11am-12pm   | Variant (Nathan Fubion)   | functional web3 (Kristoffer Josefsson)  |
+| 11am-12pm   | TBD (Nathan Fubion)                  | functional web3 (Kristoffer Josefsson)  |
 |----
 | 12pm-1pm    | Lunch         | Lunch   |
 | 1pm-2pm     | Open session  | Open session  |
-| 2pm-2.30pm  | -             | Lightning talk: Fae (Ryan Reich) |
+| 2pm-2.30pm  | Lightning talk: TBD  | Lightning talk: Fae (Ryan Reich) |
 | 2.30pm-4pm  | Open session  | Open session |
 |=====
 | 4pm-5pm   | Demonstrations  | Demonstrations |
