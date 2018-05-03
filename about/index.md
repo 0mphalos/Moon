@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: May day-convoluted weekend
 tags: [program]
 date: 2018-05-01
