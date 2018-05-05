@@ -7,7 +7,7 @@ comments: false
 ---
 # Introduction
 
-The purpose of this gathering is to explore common perspectives of category theory within functional programming frameworks and applications.
+The purpose of this gathering is to explore common perspectives of category theory within functional programming frameworks and applications. We're also going to look at recent applications using purescript for writing full-stack blockchain applications.
 
 # Where and when
 
@@ -20,11 +20,13 @@ Parking will be available. Lunch will be offered to participants for free. Regis
 
 # Program
 
-The idea is to start each day with a longer talk that sets the theme for the day. The afternoon then allows general open hacking sessions on that theme, occasionally interrupted by a 15-20min lightning talk. If possible, we’d end each day with brief presentations / discussions about the work done.
+The idea is to start each day with a longer talk that sets the theme for the day. The afternoon then allows general open hacking sessions and pair-programming on that theme, occasionally interrupted by 15-20min lightning talks. If possible, we’d end each day with brief presentations / discussions about the work done.
+
+If you are interested in giving a lightning talk, please reach out: kristoffer@foam.space
 
 # Schedule
 
-The schedule for the weekend is as follows
+The schedule for the weekend is as follows (changes and additions may occur)
 
 | Time | Saturday | Sunday |
 |:--------|:-------:|:-------:|
