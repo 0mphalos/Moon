@@ -31,7 +31,7 @@ The schedule for the weekend is as follows (changes and additions may occur)
 | Time | Saturday | Sunday |
 |:--------|:-------:|:-------:|
 | 10am-11am   | [Declarative UIs are the Future, and the Future is Comonadic!](https://coday.today/coeffects/) (Phil Freeman) | [functional web3](https://coday.today/web3/) (Martin Allen) |
-| 11am-12pm   | [TBD](https://coday.today/variants/) (Nathan Faubion)                   | [functional web3-live](https://coday.today/web3-live/) (Kristoffer Josefsson)  |
+| 11am-12pm   | [Functions, Type classes, & Interpreters](https://coday.today/variants/) (Nathan Faubion)                   | [functional web3-live](https://coday.today/web3-live/) (Kristoffer Josefsson)  |
 |----
 | 12pm-1pm    | Lunch         | Lunch   |
 |----
