@@ -37,8 +37,7 @@ The schedule for the weekend is as follows (changes and additions may occur)
 |----
 | 1pm-2pm     | Open session  | Open session  |
 | 2pm-2.30pm  | [Category Tehory and Graphical injections: A vision of Advanced Knowledge Representation](https://coday.today/graphical/) (Chris Bisignani) | [Strongly typed contract storage](https://coday.today/storage/) (Ryan Reich) |
-| 2.30-3.00pm | -             | [Urbit architecture overview
-](https://coday.today/urbit/) (Ted Blackman) |
+| 2.30-3.00pm | -             | [Urbit architecture overview](https://coday.today/urbit/) (Ted Blackman) |
 | 3.00pm-4pm  | Open session  | Open session |
 |=====
 | 4pm-5pm   | Demonstrations  | Demonstrations |
