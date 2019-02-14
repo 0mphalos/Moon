@@ -1,7 +1,7 @@
 # Site
-title:              May day-convoluted weekend
-bio:                'Exploring common perspectives of category theory within functional programming frameworks and applications.'
-description:        "May 26-27, 2018"
+title:              May day-convoluted weekend: BeachHac edition
+bio:                'Haskell and PureScript weekend for hacking and sharing projects. Bring your laptop! All skill levels are welcome.'
+description:        "May 25-26, 2019"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/Groetzsch-graph.svg'
