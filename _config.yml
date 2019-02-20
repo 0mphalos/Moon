@@ -1,5 +1,5 @@
 # Site
-title:              May day-convoluted weekend: BeachHac edition
+title:              May day-convoluted weekend (BeachHac edition)
 bio:                'Haskell and PureScript weekend for hacking and sharing projects. Bring your laptop! All skill levels are welcome.'
 description:        "May 25-26, 2019"
 reading_time:       false
@@ -8,7 +8,7 @@ logo:               'assets/img/Groetzsch-graph.svg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://coday.today
+url:                http://localhost:8081
 
 # Jekyll
 permalink:          /:title/
