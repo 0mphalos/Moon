@@ -4,6 +4,7 @@ title:  "Category Tehory and Graphical injections: A vision of Advanced Knowledg
 date:   2018-05-26
 excerpt: "Category Tehory and Graphical injections: A vision of Advanced Knowledge Representation"
 author: Chris Bisignani
+old: true
 tag:
 - talk
 comments: false

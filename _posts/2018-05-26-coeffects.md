@@ -4,6 +4,7 @@ title:  "Declarative UIs are the Future, and the Future is Comonadic!"
 date:   2018-05-26
 excerpt: "Declarative UIs are the Future, and the Future is Comonadic!"
 author: Phil Freeman
+old: true
 tag:
 - talk
 comments: false
