@@ -20,14 +20,17 @@ Parking will be available. Lunch will be offered to participants for free. Regis
 - Kristoffer Josefsson
 - Solomon Bothwell
 - Prakash Venkatraman
-- Kyle
 
 # Program
 
-The idea is to start each day with a longer talk that sets the theme for the day. The afternoon then allows general open hacking sessions and pair-programming on that theme, occasionally interrupted by 15-20min lightning talks. If possible, we’d end each day with brief presentations / discussions about the work done.
+Please join us for a weekend of Haskell/Purescript lectures and hacking in the spirit of BayHac (but in LA!). We are looking for speakers to do 30-45minute presentations on any topics related to Haskell and Purescript. We are also looking for open source maintainers who would like to present their Haskell/Purescript for contributions during our open hacking sessions.
 
-If you are interested in giving a lightning talk, please reach out: kristoffer@foam.space
+If you are interested in giving a talk, please send your proposal using this [form](https://docs.google.com/forms/d/e/1FAIpQLSfxroAXDfjO8IQJjpU2A9YWhcu5qboKVIzn37xcvHF5dEcopg/viewform)
 
 # Schedule
 
 Schedule TBA
+
+# Contact
+
+Contact us at beachhac@gmail.com
