@@ -29,7 +29,22 @@ If you are interested in giving a talk, please send your proposal using this [fo
 
 # Schedule
 
-Schedule TBA
+The schedule for the weekend is as follows (changes and additions may occur)
+
+| Time | Saturday | Sunday |
+|:--------|:-------:|:-------:|
+| 10am-11am | Open | [Metaprogramming in Purescript](https://coday.today/metaprogramming/) (Evante Garza-Licudine) |
+| 11am-12pm | Open | [The Diagonal Argument and Algorithm W](https://coday.today/diagonal/) (Sean Westfall) |
+|---
+| 12pm-1pm | Lunch | Lunch |
+|---
+| 1pm-2pm | Open | [What happens at Lumia](https://coday.today/lumia/)  (Phil Freeman) |
+| 2pm-2.30pm | Open | Open |
+| 2.30pm-3.00pm | - | Open |
+| 3.00pm-4pm | Open | Open |
+|---
+| 4pm-5pm | Demonstrations | [Introduction to diagrammatics](https://coday.today/diagrammatics/) (Dmitry Vagner) |
+{: rules="groups"}
 
 # Contact
 

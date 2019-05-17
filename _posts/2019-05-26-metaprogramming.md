@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metaprogramming in Purescript"
-date:   2019-05-25
+date:   2019-05-26
 excerpt: "Metaprogramming in Purescript"
 author: Evante Garza-Licudine
 old: false
@@ -11,7 +11,7 @@ comments: false
 ---
 
 # Time and date
-10am-11am 25 May 2019
+10am-11am 26 May 2019
 
 # Abstract
 
