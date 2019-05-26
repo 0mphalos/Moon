@@ -39,11 +39,9 @@ The schedule for the weekend is as follows (changes and additions may occur)
 | 12pm-1pm | Lunch | Lunch |
 |---
 | 1pm-2pm | Open | [Teaching a Functional Language New Tricks](https://coday.today/juggling/) (Phil Freeman) |
-| 2pm-3pm | Open | [Adopting pure FP incrementally - Engineering at Lumi](https://coday.today/lumi/) (Phil Freeman) |
-| 3pm-3.30pm | Open | [TBA](https://coday.today/routes/) (Martin Allen) |
-| 3.30pm-4pm | Open | Open |
-|---
-| 4pm-5pm | Open | Demonstrations |
+| 2pm-3pm | Open | [Purescript concrete syntax trees](https://coday.today/cst/) (Nathan Faubion) |
+| 3pm-4pm | Open | [Adopting pure FP incrementally - Engineering at Lumi](https://coday.today/lumi/) (Phil Freeman) |
+| 4pm-5pm | Open | [TBA](https://coday.today/routes/) (Martin Allen) |
 | 5pm-6pm | Demonstrations / Work in progress | [Introduction to diagrammatics](https://coday.today/diagrammatics/) (Dmitry Vagner) |
 {: rules="groups"}
 
