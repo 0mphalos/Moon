@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction to diagrammatics"
 date:   2019-05-26
-excerpt: "Introduction to diagrammatics"
+excerpt: "Representing composite maps via wiring diagrams + a tour of the underlying category theory that makes this work and generalizes it to broader contexts."
 author: Dmitry Vagner
 old: false
 tag:
