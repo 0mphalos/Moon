@@ -15,3 +15,7 @@ comments: false
 
 # Abstract
 Representing composite maps via wiring diagrams + a tour of the underlying category theory that makes this work and generalizes it to broader contexts.
+
+# Video
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BYhk52dMEe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
